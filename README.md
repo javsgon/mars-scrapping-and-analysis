@@ -1,1 +1,1 @@
-# mars-scrapping-and-analysis
+# Mars News Scrapping and Analysis
